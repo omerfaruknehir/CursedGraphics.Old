@@ -1,2 +1,2 @@
-# CursedGraphics
- A simple graphic library to make console applications with Python.
+# CursedGraphics [Old]
+ A simple graphic library similar to Windows Forms for making console applications with Python.
