@@ -1,4 +1,4 @@
-# CursedGraphics [Old]
+# CursedGraphics [Old+Not even finished]
 > "It's deprecated and when I was deprecating it, I was planning to rewrite it better again."
 > <div style="display:inline-block; width:100%; text-align: right">-Me</div>
 
